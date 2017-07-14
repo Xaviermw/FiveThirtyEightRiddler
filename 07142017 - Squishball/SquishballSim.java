@@ -1,6 +1,6 @@
 /*
 
-Created By Xavier Weisenreder:
+Problem By Oliver Roeder at https://fivethirtyeight.com/features/can-you-eat-more-pizza-than-your-siblings/:
 
 Congratulations! The Acme Axegrinders, which you own, are the regular season champions of the National Squishyball League (NSL). Your team will now play a championship series against the Boondocks Barbarians, which had the second-best regular season record. You feel good about Acme’s chances in the series because Acme won exactly 60 percent of the hundreds of games it played against Boondocks this season. (The NSL has an incredibly long regular season.) The NSL has two special rules for the playoffs:
 
@@ -9,6 +9,9 @@ The owner of the winning team gets $1 million minus $10,000 for each of the vict
 Since Acme has a 60 percent chance of winning any individual game against Boondocks, Rule 1 encourages you to opt for a very long series to improve Acme’s chances of winning the series. But Rule 2 means that a long series will mean less winnings for you if Acme does take the series.
 
 How long a series should you select in order to maximize your expected winnings? And how much money do you expect to win?
+
+Solution By Xavier Weisenreder
+
 
  */
 
